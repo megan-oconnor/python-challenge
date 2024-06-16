@@ -1,6 +1,5 @@
 # python-challenge
-module 3 challenge
-  - 2 different challenges, each reading in a csv file and then sharing analysis in the console and a text file.
+**module 3 challenge**: 2 different challenges, each reading in a csv file and then sharing analysis in the console and a text file.
 
 ## PyBank
 The function _fin_analysis_ produces all analysis and output.
